@@ -1,2 +1,2 @@
 # E-commerce-backend
-Backend for an e commerce site using express.js api with sequelize and mysql
+Backend for an e commerce site using express.js api with sequelize and mysql. Trying to get what I can get done before deadline was feeling ill all week so sending in what I have in hopes of not getting an incomplete and to improve on it later. Started to work with the api routes and models but was unable to get them to work properly. Improved alot off the starter code but not fully functional yet so I thought the walkthrough video would be null.
